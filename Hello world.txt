@@ -1,3 +1,4 @@
 print ("Hello world")
 123
 print ("amazing")
+print ("Hello my dear friend")s
